@@ -1,0 +1,21 @@
+{
+    "name": "gwinn/mws-orders",
+    "license": "MIT",
+    "description": "Amazon MWS Orders PHP API client",
+    "type": "library",
+    "keywords": ["api", "amazon", "mws"],
+    "homepage": "http://github.com/gwinn/mws-orders",
+    "support": {
+        "email": "lushpai@gmail.com"
+    },
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": { "": "src/"}
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "process-timeout": 600
+    }
+}
