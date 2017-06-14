@@ -1,10 +1,10 @@
 {
-    "name": "gwinn/mws-orders",
+    "name": "gwinn/mws-sdk",
     "license": "MIT",
     "description": "Amazon MWS Orders PHP API client",
     "type": "library",
     "keywords": ["api", "amazon", "mws"],
-    "homepage": "http://github.com/gwinn/mws-orders",
+    "homepage": "http://github.com/gwinn/mws-sdk",
     "support": {
         "email": "lushpai@gmail.com"
     },
