@@ -1,5 +1,5 @@
 {
-    "name": "gwinn/mws-sdk",
+    "name": "ecomlogic/mws-sdk",
     "license": "MIT",
     "description": "Amazon MWS Orders PHP API client",
     "type": "library",
